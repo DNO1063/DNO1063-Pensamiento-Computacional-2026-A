@@ -2,7 +2,7 @@
 
 **Repo de tareas y ejercicios para clase de Pensamiento Computacional, Escuela de la Diseño, Pontificia Universidad Católica de Chile.**.  
 
-En estew repositorio iremos dejando material de los ejercicios. Entonces deben ir bajando estas mediante git pull desde su terminal o cmd. Al bajar la base del ejercicio de la semana, subanlo a su Drive y ábranlo con Colab para desarrollarlo allí. Al completarlo, lo descargan y entregan, y no olviden cambiar nombre y título. Pueden ver más referencias a comandos GIT en el archivo REFERENCIAS_GITHUB.   
+En este repositorio iremos dejando material de los ejercicios. Entonces deben ir bajando estas mediante git pull desde su terminal o cmd. Al bajar la base del ejercicio de la semana, subanlo a su Drive y ábranlo con Colab para desarrollarlo allí. Al completarlo, lo descargan y entregan, y no olviden cambiar nombre y título. Pueden ver más referencias a comandos GIT en el archivo REFERENCIAS_GITHUB.   
 <br> 
 
 ## I. DESCRIPCIÓN DEL CURSO 
